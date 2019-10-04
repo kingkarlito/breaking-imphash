@@ -2,8 +2,8 @@
 32-bit Implementation for Breaking Imphash as described in paper: https://arxiv.org/abs/1909.07630
 
 # Authors
-- breaking-imphash.py: Chris Balles
-- breaking-imphash.cpp: Ateeq Sharfuddin
+- breaking-imphash.py: Chris Balles (chrisbvt)
+- breaking-imphash.cpp: Ateeq Sharfuddin 
 
 # Usage
 Precompiled executables (including great.exe referred in the paper) reside in
